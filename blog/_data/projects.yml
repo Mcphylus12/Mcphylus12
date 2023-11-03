@@ -1,0 +1,9 @@
+- title: Blazor ModelManager
+  description: A framework written against Blazor to trivialise the acquisition and presentation of business models. The framework involves defining a business object, A manager for acquiring the object and finally any number of Blazor views that can be used to present the object.
+  githubUrl: https://github.com/Mcphylus12/Blazor.ModelManager
+- title: Microservice Sandbox
+  description: A proof of concept for nuget packages to facilitate a c sharp application written in microservices. The aim is to trivialise common tasks like loading config from a central source and sync/async communication between services.
+  githubUrl: https://github.com/Mcphylus12/microservice-toolkit
+# - title: Vue Experiments
+#   description: A first dip into Vue with a goal of creating a shop to demo. Its more an exercise in trying to build generic systems in Vue. Currently the goals are A layout engine, A collection presentation engine, A data mocking layer and an observable system with pipes that has integrated caching and Vue support.
+#   githubUrl: https://github.com/Mcphylus12/vue-experiments

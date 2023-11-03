@@ -1,0 +1,26 @@
+{% for post in site.posts limit: include.postLimit %}
+    {% if post.visible %}
+        <div class="post section {{ post.Category }} {% for tag in post.Tags %}{{ tag }} {% endfor %}">
+            <a href="{{ post.url }}">
+                <div class="post-container">
+                        {% if post.Image %}
+                            <div class="image"><img src="/assets/{{ post.Image }}"/></div>
+                        {% endif %}
+                    <div class="summary">{{ post.excerpt }}</div>
+                </div>
+                <div class="date">{{ post.date | date_to_string }}</div>
+                <hr style="margin-bottom: 0;"/>
+                <a href="/search.html?s={{ post.Category }}" class="category">Category: {{ post.Category }}</a>
+                <div class="tags">
+                    Tags: 
+                    {% for tag in post.Tags %}
+                        <a href="/search.html?s={{ tag }}" class="tag">
+                            {{ tag }}
+                        </a>
+                    {% endfor %}
+                </div>
+                <div class="author">Author: {{ post.Author }}</div>
+            </a>
+        </div>
+    {% endif %}
+{% endfor %}

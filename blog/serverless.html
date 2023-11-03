@@ -1,0 +1,38 @@
+---
+layout: page
+title: Serverless
+---
+
+<h1>Serverless Projects</h1>
+
+<p>These are a collection of links and descriptions for other projects I am working that do not require a server. As they don't need a server they can be hosted on github pages from static files</p>
+
+<p>If your looking for other projects try the Projects page</p>
+
+<div id="serverless">
+    {% for project in site.data.serverless %}
+        <div class="section">
+            <a href="{{ project.url }}">
+                <div class="titleBar">
+                    <h1 class="title">
+                        {{ project.title }}
+                    </h1>
+                    <div class="clicker">
+                        {{ site.clickerText }}
+                    </div>
+                </div>
+                {% if project.imageUrl %}
+                    <div class="image">
+                        <img src="{{ project.imageUrl }}" />
+                    </div>
+                {% endif %}
+                <p class="description">
+                    {{ project.description }}
+                </p>
+                <a href="{{ project.githubUrl }}" class="github">
+                    {{ project.githubUrl }}
+                </a>
+            </a>
+        </div>
+    {% endfor %}
+</div>
