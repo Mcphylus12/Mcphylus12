@@ -49,7 +49,7 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 - https://teamtopologies.com/key-concepts
 - https://youtu.be/HYXH2XUfhfo
 
-### Youtube Channels And Videos
+### Youtube Channels
 - https://www.youtube.com/@ContinuousDelivery
 - https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg
 - https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw
