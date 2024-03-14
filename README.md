@@ -27,7 +27,7 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 - https://microsoft.github.io/code-with-engineering-playbook/
  
 ### Examples
-- https://github.com/dotnet-architecture/eShopOnContainers
+- https://github.com/dotnet/eShop
 
 #### Technologies
 - https://dotnet.microsoft.com/en-us/learn
