@@ -44,6 +44,7 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 
 #### Katas
 - https://www.codewars.com/
+- https://kata-log.rocks/
 
 #### Organisation
 - https://teamtopologies.com/key-concepts
