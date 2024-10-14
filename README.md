@@ -49,6 +49,7 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 #### Organisation
 - https://teamtopologies.com/key-concepts
 - https://youtu.be/HYXH2XUfhfo
+- https://github.com/Mcphylus12/Mcphylus12/blob/main/CareerThroughts.md
 
 ### Youtube Channels
 - https://www.youtube.com/@ContinuousDelivery
