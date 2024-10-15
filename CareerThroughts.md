@@ -7,23 +7,29 @@
 
 ### Candidate
 - Who Are They - Introduce yourself?
+- Why are you looking to move? what do you enjoy about your current role
 - What are they looking for in their career 
+  - What do you want to do differently at your next role
   - What are you looking for in the short and medium term? 
   - Any Specific Areas they find interesting
+- Biggest success, biggest mistake
 - Hobbies 
-  - Any technical hobbies outside of work? 
-  - Any hobbies that aren't tech?
+  - Any technical hobbies outside of work? Last tech thing learnt outside of work?
+  - Any hobbies that aren't tech? Last non tech thing learnt outside of work?
 
 ### Process (Experience/Opinion)
-- Pair Programming
+- Pair Programming? Last thing you taught someone
 - Peer reviews
 - Agile
 - Scrum
 
 ### Tech
+- Explain the technical challenges between a couple of CV items
 - Testing/TDD - Benefits and potentially drawbacks?
 - Design Patterns - Pick 2 and talk about why they are good and what sort of problem you could solve with them?
 - Solid Principles - pick 2 and talk about why they are good and what a violation looks like?
+- Pick 2 important things for creating good software
+- Walk through some basic steps finding an issue in a web app
 - Notable Frameworks/Libraries
 
 ## Stage 2
