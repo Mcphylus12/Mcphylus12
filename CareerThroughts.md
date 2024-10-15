@@ -31,6 +31,7 @@
 - Pick 2 important things for creating good software
 - Walk through some basic steps finding an issue in a web app
 - Notable Frameworks/Libraries
+- Thoughts on latest languages features in [c#](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
 
 ## Stage 2
 - Technical Test
@@ -39,6 +40,7 @@
 - If you could go to any time period which one would it be
 - Interest in any other programming languages
   - Comparison to C#
+
 
 # Progression
 
