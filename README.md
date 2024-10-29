@@ -8,6 +8,8 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 - https://microservices.io/
 - https://learn.microsoft.com/en-us/azure/architecture/
 - https://www.cncf.io/projects/
+- https://download.microsoft.com/download/b/b/6/bb69622c-ab5d-4d5f-9a12-b81b952c1169/clouddesignpatternsbook-pdf.pdf
+- [Azure Architecture Patterns Infographic](,/images/azure-infographic.jpg)
 
 #### Software Design
 - https://refactoring.guru/
