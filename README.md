@@ -30,6 +30,7 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
  
 ### Examples
 - https://github.com/dotnet/eShop
+- https://github.com/grafana/docker-otel-lgtm/ / https://github.com/grafana/intro-to-mltp
 
 #### Technologies
 - https://dotnet.microsoft.com/en-us/learn
@@ -44,7 +45,6 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 - https://keda.sh/
 - https://xunit.net/
 - https://wolverinefx.net/
-- https://github.com/grafana/docker-otel-lgtm/ / https://github.com/grafana/intro-to-mltp
 
 #### Katas
 - https://www.codewars.com/
