@@ -43,6 +43,8 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 - https://www.rabbitmq.com/
 - https://keda.sh/
 - https://xunit.net/
+- https://wolverinefx.net/
+- https://github.com/grafana/docker-otel-lgtm/ / https://github.com/grafana/intro-to-mltp
 
 #### Katas
 - https://www.codewars.com/
