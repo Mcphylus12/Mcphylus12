@@ -33,6 +33,9 @@
 - Notable Frameworks/Libraries
 - Thoughts on latest languages features in [c#](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
 
+- For High level hires
+  - green field system (B/E, F/E, DBs and Devops) Pick 2 and walk 3 a couple of options with reasonings
+
 ## Stage 2
 - Technical Test
 - Re-ask about any tech questions they didn't know in first stage to see if they've done reading between
