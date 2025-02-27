@@ -56,6 +56,7 @@
 - Devops
 - Product ownership
 - Business Analytics
+- Security
 
 ## Jnr
 - Motivated and proactive learner
