@@ -27,6 +27,7 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 - https://devblogs.microsoft.com/dotnet/
 - https://blog.cleancoder.com/
 - https://microsoft.github.io/code-with-engineering-playbook/
+- https://learn.microsoft.com/en-us/devops/plan/scaling-agile
  
 ### Examples
 - https://github.com/dotnet/eShop
