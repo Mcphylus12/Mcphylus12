@@ -20,18 +20,24 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 - https://learn.microsoft.com/en-us/devops/develop/shift-left-make-testing-fast-reliable
 - https://learn.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-8.0
 - https://martinfowler.com/bliki/UnitTest.html
+
+#### Organisation
+- https://teamtopologies.com/key-concepts
+- https://youtu.be/HYXH2XUfhfo
+- https://github.com/Mcphylus12/Mcphylus12/blob/main/CareerThroughts.md
+- https://microsoft.github.io/code-with-engineering-playbook/
+- https://learn.microsoft.com/en-us/devops/plan/scaling-agile
  
 #### Blogs
 - https://medium.com/@kentbeck_7670
 - https://martinfowler.com/
 - https://devblogs.microsoft.com/dotnet/
 - https://blog.cleancoder.com/
-- https://microsoft.github.io/code-with-engineering-playbook/
-- https://learn.microsoft.com/en-us/devops/plan/scaling-agile
  
-### Examples
+### Reference Apps
 - https://github.com/dotnet/eShop
-- https://github.com/grafana/docker-otel-lgtm/ / https://github.com/grafana/intro-to-mltp
+- https://github.com/grafana/docker-otel-lgtm/
+- https://github.com/grafana/intro-to-mltp
 
 #### Technologies
 - https://dotnet.microsoft.com/en-us/learn
@@ -41,8 +47,6 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 - https://kubernetes.io/
 - https://helm.sh/
 - https://www.docker.com/resources/what-container/
-- https://www.mongodb.com/
-- https://www.rabbitmq.com/
 - https://keda.sh/
 - https://xunit.net/
 - https://wolverinefx.net/
@@ -50,11 +54,6 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 #### Katas
 - https://www.codewars.com/
 - https://kata-log.rocks/
-
-#### Organisation
-- https://teamtopologies.com/key-concepts
-- https://youtu.be/HYXH2XUfhfo
-- https://github.com/Mcphylus12/Mcphylus12/blob/main/CareerThroughts.md
 
 ### Youtube Channels
 - https://www.youtube.com/@ContinuousDelivery
