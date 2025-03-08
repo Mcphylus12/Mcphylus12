@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋 this
+Im useless at doing profiles so this is a list of reading and resources that have helped me get where i am. If putting them all in one place could help someone else even a little I'll take that as a win. 
 
-
-### Reading
-A reading list I am slowly building. opinionated towards c sharp cloud native
+Checkout https://github.com/Mcphylus12/Mcphylus12/ for other markdown docs written in the same vein on other topics. 
 
 #### Architecture
 - https://microservices.io/
@@ -24,7 +23,7 @@ A reading list I am slowly building. opinionated towards c sharp cloud native
 #### Organisation
 - https://teamtopologies.com/key-concepts
 - https://youtu.be/HYXH2XUfhfo
-- https://github.com/Mcphylus12/Mcphylus12/blob/main/CareerThroughts.md
+
 - https://microsoft.github.io/code-with-engineering-playbook/
 - https://learn.microsoft.com/en-us/devops/plan/scaling-agile
  
