@@ -1,43 +1,47 @@
+# Overview 
+This doc is my attempt at putting some granular ideas to the recruiting and line management aspect of being a software developer.
+
 # Interview questions
+What questions I would ask to gauge someone competency and team fit.
 
 ## Stage 1
 ### Company
-- What do they know about Company
-- What do they know about Product
+- What do they know about the Company
+- What do they know about the Product(s)
 
 ### Candidate
-- Who Are They - Introduce yourself?
-- Why are you looking to move? what do you enjoy about your current role
+- Who are they - get them to introduce themselves?
+- Why are they looking to move? what do they enjoy about their current role
 - What are they looking for in their career 
-  - What do you want to do differently at your next role
-  - What are you looking for in the short and medium term? 
-  - Any Specific Areas they find interesting
+  - What do they want to do differently at their next role
+  - What are they looking for in the short and medium term? 
+  - Any specific areas they find interesting
 - Biggest success, biggest mistake
 - Hobbies 
   - Any technical hobbies outside of work? Last tech thing learnt outside of work?
   - Any hobbies that aren't tech? Last non tech thing learnt outside of work?
 
-### Process (Experience/Opinion)
+### Process (Experience & Opinion)
 - Pair Programming? Last thing you taught someone
 - Peer reviews
 - Agile
 - Scrum
 
 ### Tech
-- Explain the technical challenges between a couple of CV items
+- Explain the **technical** challenges of a couple of CV items
 - Testing/TDD - Benefits and potentially drawbacks?
-- Design Patterns - Pick 2 and talk about why they are good and what sort of problem you could solve with them?
-- Solid Principles - pick 2 and talk about why they are good and what a violation looks like?
+- Design Patterns - Pick 2 and talk about why they are good and what sort of problem could be solved with them?
+- Solid Principles - pick 2 and talk about why they are good and what a violation looks like? (Also do they see any drawbacks)
 - Pick 2 important things for creating good software
-- Walk through some basic steps finding an issue in a web app
+- Walk through some basic steps finding an issue in a hypothetical web app
 - Notable Frameworks/Libraries
 - Thoughts on latest languages features in [c#](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
 
 - For High level hires
-  - green field system (B/E, F/E, DBs and Devops) Pick 2 and walk 3 a couple of options with reasonings
+  - in a hypothetical green field system (B/E, F/E, DBs and Devops) Pick 2 and walk through a couple of options with reasonings. Explain a bit about the system as a start but leave areas deliberately vague to prompt questions.
 
 ## Stage 2
-- Technical Test
+- Technical Test (not a random code kata but something related to what they would do in the day to day)
 - Re-ask about any tech questions they didn't know in first stage to see if they've done reading between
 - Best bug they've found/fixed
 - If you could go to any time period which one would it be
