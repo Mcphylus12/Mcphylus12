@@ -4,3 +4,4 @@
 - https://www.odoo.com/ - All in one business management
 - https://flyte.org/
 - https://github.com/backstage/backstage
+- https://staffeng.com/
