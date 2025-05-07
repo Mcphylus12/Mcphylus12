@@ -6,3 +6,4 @@
 - https://github.com/backstage/backstage
 - https://staffeng.com/
 - https://www.ventoy.net/
+- https://enterpriseready.io
