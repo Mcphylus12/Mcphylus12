@@ -7,4 +7,5 @@
 - https://staffeng.com/
 - https://www.ventoy.net/
 - https://enterpriseready.io
-- http://GitHub.com/chrisTitusTech/winutil
+- https://GitHub.com/chrisTitusTech/winutil
+- https://clickhouse.com
