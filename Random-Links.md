@@ -9,3 +9,6 @@
 - https://enterpriseready.io
 - https://GitHub.com/chrisTitusTech/winutil
 - https://clickhouse.com
+- https://gchq.github.io/
+- https://devtoys.app/
+- https://learn.microsoft.com/en-us/windows/powertoys/
