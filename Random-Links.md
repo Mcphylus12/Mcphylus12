@@ -14,3 +14,4 @@
 - https://learn.microsoft.com/en-us/windows/powertoys/
 - https://landscape.cncf.io/
 - https://storybook.js.org/
+- https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU&si=bYRy5TliVK4NAnpb
