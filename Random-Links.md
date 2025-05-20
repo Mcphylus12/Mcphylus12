@@ -12,3 +12,4 @@
 - https://gchq.github.io/
 - https://devtoys.app/
 - https://learn.microsoft.com/en-us/windows/powertoys/
+- https://landscape.cncf.io/
