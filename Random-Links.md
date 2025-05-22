@@ -15,3 +15,4 @@
 - https://landscape.cncf.io/
 - https://storybook.js.org/
 - https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU&si=bYRy5TliVK4NAnpb
+- https://www.openstack.org/
