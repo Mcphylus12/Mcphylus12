@@ -7,7 +7,12 @@ Gamer outside of works an im usually up for anything team based regardless of th
 
 ### Current projects
 Im slowly working through project ideas
-- The first being AutoFront (Thank ChatGPT for the name). The project is a dynamic fontend that can be used to present business data and trigger business functions. The aim is to allow developers who dont want to touch frontend tech to still be able to put together something quick for things like back office applications.
+- AutoFront (Thank ChatGPT for the name). The project is a dynamic fontend that can be used to present business data and trigger business functions. The aim is to allow developers who dont want to touch frontend tech to still be able to put together something quick for things like back office applications.
     - Written in SolidJS with javascript
     - Contains an open api spec that a dev can bui;d a backend server for the frontend to automatically discover what pages to display and what business object and actions are available.
     - https://github.com/Mcphylus12/Autofront
+- Monobuilde. A tool to support easy dependency and build management for monorepos.
+    - feed it a config of your dependencies (it will also support discovery through reading things like csproj files)
+    - When you want to build give it a list of changed folders and files (aiming for turn key integration with git diff)
+    - And it will throw out which projects need to be built and deployed
+
