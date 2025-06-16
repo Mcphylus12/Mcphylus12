@@ -13,6 +13,5 @@ Im slowly working through project ideas
     - https://github.com/Mcphylus12/Autofront
 - Monobuilder. A tool to support easy dependency and build management for monorepos.
     - feed it a config of your dependencies (it will also support discovery through reading things like csproj files)
-    - When you want to build give it a list of changed folders and files (aiming for turn key integration with git diff)
-    - And it will throw out which projects need to be built and deployed
-
+    - When you want to build give it a list of changed folders and files EG `git diff --name-only` (Also can feed in changes from a file)
+    - And it will throw out the build scripts for each project that needs building
