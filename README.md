@@ -16,3 +16,9 @@ Im slowly working through project ideas
     - When you want to build give it a list of changed folders and files EG `git diff --name-only` (Also can feed in changes from a file)
     - And it will throw out the build scripts for each project that needs building
     - https://github.com/Mcphylus12/MonoBuilder
+- TestManager. A tool for managing file based tests
+    - Define tests in a json format against files
+    - run against a directory to execute/manage tests
+    - Bulk cli mode takes a glob pattern and executes all tests in the json files that match the pattern
+    - Run in a web mode to get a web ui to manage tests
+    - https://github.com/Mcphylus12/TestManager
