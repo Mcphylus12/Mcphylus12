@@ -22,3 +22,6 @@ Im slowly working through project ideas
     - Bulk cli mode takes a glob pattern and executes all tests in the json files that match the pattern
     - Run in a web mode to get a web ui to manage tests
     - https://github.com/Mcphylus12/TestManager
+- Messenger. Basic Mediatr inspired dispatcher that also allows you to send it in one service and handle it in another.
+    - Built to make moving from monolith to microservice and back again an easier exercise
+    - https://github.com/Mcphylus12/Messenger
