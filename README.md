@@ -27,3 +27,5 @@ Im slowly working through project ideas
     - https://github.com/Mcphylus12/Messenger
 - HttpMocker. My take on mocking Http calls by converting MVC controller like syntax directly into a HttpMessageHandler.
     -  https://github.com/Mcphylus12/HttpMocker
+- DataGenerator. A stub data generator that is resursive and supports type and property specific rules.
+    -  https://github.com/Mcphylus12/DataGenerator
