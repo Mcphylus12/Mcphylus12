@@ -29,3 +29,7 @@ Im slowly working through project ideas
     -  https://github.com/Mcphylus12/HttpMocker
 - DataGenerator. A stub data generator that is resursive and supports type and property specific rules.
     -  https://github.com/Mcphylus12/DataGenerator
+- Config Api. A standalone web service that can be deployed and used to manage the configuration of other products and services in an ecosystem.
+   - Built to faciliate shipping a SAAS style microservice system to an on prem target as it allows the customer admins a way to modify all config in the application through a single place
+   - Supports config inheritance and reuse through dot sepeated keys. View the project README for an example
+   - https://github.com/Mcphylus12/ConfigAPI
