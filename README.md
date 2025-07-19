@@ -33,3 +33,6 @@ Im slowly working through project ideas
    - Built to faciliate shipping a SAAS style microservice system to an on prem target as it allows the customer admins a way to modify all config in the application through a single place
    - Supports config inheritance and reuse through dot sepeated keys. View the project README for an example
    - https://github.com/Mcphylus12/ConfigAPI
+- All in one telemetry object
+   - A single IDisposable that gets you alot of telemetry quickly
+   - https://gist.github.com/Mcphylus12/e50985410624e4c2e3f431ea271ef474 
