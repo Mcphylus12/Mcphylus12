@@ -40,4 +40,4 @@ Im slowly working through project ideas
    - https://github.com/Mcphylus12/InlineMocker
    - A single JS file that can be dropped in and provides the ability to intercept calls from your app and return mocked responses.
    - Built in UI to manage the mocked responses
-   - Supports import and export mocked responses
+   - Supports importing and exporting mocked responses
