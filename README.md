@@ -35,4 +35,9 @@ Im slowly working through project ideas
    - https://github.com/Mcphylus12/ConfigAPI
 - All in one telemetry object
    - A single IDisposable that gets you alot of telemetry quickly
-   - https://gist.github.com/Mcphylus12/e50985410624e4c2e3f431ea271ef474 
+   - https://gist.github.com/Mcphylus12/e50985410624e4c2e3f431ea271ef474
+- Inline HTTP mocker for frontends
+   - https://github.com/Mcphylus12/InlineMocker
+   - A single JS file that can be dropped in and provides the ability to intercept calls from your app and return mocked responses.
+   - Built in UI to manage the mocked responses
+   - Supports import and export mocked responses
