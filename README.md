@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-Check out <mcphylus12.github.io>
+Check out https://mcphylus12.github.io
 
 Im a full stack dev with most of my experience in C# but enjoy picking up whatever is needed to get the job done.
 I have a particular interest in clean design and architecture and how to keep an application high quality over a long lifetime while being maintained by more than 1 person.
